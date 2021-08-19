@@ -1,2 +1,2 @@
-# LetsGrowMore-Task-2
-create a web application using React app
+# LGM-Task2
+## See <a href="https://lgm-task2.000webhostapp.com/"> Website Demo </a>
